@@ -13,4 +13,4 @@
 That's it! The more information you give, the easier it becomes for us to track it down and fix it.
 Ideally, you should provide an application that reproduces the error or a test case to Devise's suite.
 
-Thanks!
+Thanks a lot!
